@@ -21,7 +21,7 @@ test_cases: list[tuple[Any, Any]] = [
     ([12, 35, 1, 10, 34, 1], True),
     ([10, 5, 10], True),
     ([10, 10, 10], True),
-    ([1,2,3,4], False),
+    ([1, 2, 3, 4], False),
 ]
 
 
